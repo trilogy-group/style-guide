@@ -1,34 +1,34 @@
 [
    {
       "name":"ready-for-review",
-      "color":"#11d80a"
+      "color":"11d80a"
    },
    {
       "name":"conflicts",
-      "color":"#d8ce0a"
+      "color":"d8ce0a"
    },
    {
       "name":"failing-tests",
-      "color":"#d80909"
+      "color":"d80909"
    },
    {
       "name":"missing-ci-link",
-      "color":"#fffa00"
+      "color":"fffa00"
    },
    {
       "name":"dependent",
-      "color":"#8a09ed"
+      "color":"8a09ed"
    },
    {
       "name":"protractor",
-      "color":"#e23237"
+      "color":"e23237"
    },
    {
       "name":"requires-fix",
-      "color":"#d973f7"
+      "color":"d973f7"
    },
    {
       "name":"ready-for-merge",
-      "color":"#351C75"
+      "color":"351C75"
    }
 ]
